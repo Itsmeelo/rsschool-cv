@@ -36,3 +36,9 @@ This formula calculates the bank's tax by months.
   # Courses:
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress);
 - [Sientific Cyber Security Association](https://scsa.ge/en/)  «Front-End Developer» (completed);
+
+# Languages:
+
+- English - [Intermediate](https://drive.google.com/file/d/1IEH5wFuKPTUQGpXSNk_Br49Q0TH093jY/view?usp=sharing) (according to the online test at EFset Logo [www.efset.org](https://www.efset.org/quick-check/take-test/#set15-190/result))
+- Russian - Basic
+- Georgian - Native

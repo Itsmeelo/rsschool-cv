@@ -32,3 +32,7 @@ This formula calculates the bank's tax by months.
  }
  
   console.log(result);
+  
+  # Courses:
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress);
+- [Sientific Cyber Security Association](https://scsa.ge/en/)  «Front-End Developer» (completed);

@@ -39,6 +39,6 @@ This formula calculates the bank's tax by months.
 
 # Languages:
 
-- English - [Intermediate](https://drive.google.com/file/d/1IEH5wFuKPTUQGpXSNk_Br49Q0TH093jY/view?usp=sharing) (according to the online test at EFset Logo [www.efset.org](https://www.efset.org/quick-check/take-test/#set15-190/result))
+- English - [Intermediate](https://drive.google.com/file/d/1IEH5wFuKPTUQGpXSNk_Br49Q0TH093jY/view?usp=sharing) (according to the online test at EFset [www.efset.org](https://www.efset.org/quick-check/take-test/#set15-190/result))
 - Russian - Basic
 - Georgian - Native

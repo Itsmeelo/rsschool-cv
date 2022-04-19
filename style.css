@@ -1,28 +1,29 @@
-
 div {
     border-radius: 5px;
     /*display: block;*/
 }
+
 header {
     display: flex;
     justify-content: center;
 }
+
 .header {
     /*position: fixed;*/
     z-index: 1;
-    height:254px;
+    height: 254px;
     width: 98%;
     background-color: #668284;
     margin-bottom: 10px;
     display: flex;
     justify-content: space-between;
-    flex-direction: row; 
+    flex-direction: row;
     align-items: center;
-    
+
 }
 
 
-.pic{
+.pic {
     margin: 0;
     border-radius: 5px;
     margin-top: auto;
@@ -34,22 +35,22 @@ header {
     margin-right: 10px;
 }
 
-.cv{
+h1 {
     font-size: 2em;
     color: #ffffff;
-    
+
 }
 
-main{
+main {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 
-.body{
+.body {
     margin-top: 1px;
-    padding:5px;
+    padding: 5px;
     height: auto;
     width: 98%;
     background-color: #E3EDD8;
@@ -59,8 +60,8 @@ main{
 
 a {
     text-decoration: none;
-    color:cadetblue;
-    font-style:oblique;
+    color: cadetblue;
+    font-style: oblique;
     font-weight: bolder;
 }
 
@@ -69,7 +70,7 @@ a {
     font-style: italic;
 }
 
-ul{
+ul {
     line-height: 30px;
     font-size: 1.2em;
 }
@@ -77,19 +78,19 @@ ul{
 img {
     max-width: 100%;
     height: auto;
-  }
+}
 
 footer {
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
-    
+
 }
 
-.footer{
+.footer {
     margin-top: 1px;
-    padding:5px;
+    padding: 5px;
     height: auto;
     width: 98%;
     background-color: #C1E3E1;
@@ -97,20 +98,20 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    
+
 }
 
 
-.infoTwo{
+.infoTwo {
     display: flex;
     display: inline-block;
     flex-direction: column;
-    
+
 }
-.sub_infoTwo{
+
+.sub_infoTwo {
     display: flex;
     flex-direction: column;
     display: inline-block;
-    
-}
 
+}

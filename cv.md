@@ -41,3 +41,39 @@ This is a job that I enjoy doing and it brings me happiness.
 ***This formula calculates the bank's tax by months.***
 
 ![Code](CODE-EXEPLE.png)
+
+## Project example:
+
+[***Skilled e-learning landing page***](https://itsmeelo.github.io/Skilled-e-learning-landing-page/);
+
+[***Project:"profile Card Component
+" (HTML/CSS)***](https://itsmeelo.github.io/profile-card-component/);
+
+[***Project:"Pig game" (HTML/CSS/JavaScript)***](https://itsmeelo.github.io/Pig-game/);
+
+[***Project:"Modal Window" (HTML/CSS/JavaScript)***](https://itsmeelo.github.io/Modal-Window/index.html);
+
+[***Project:"Guess My Number" (HTML/CSS/JavaScript)***](https://itsmeelo.github.io/Game-Guess-My-Number-/).
+
+## Courses:
+
+- Jonas Schmadmann - The Complite Javascript Course 2022: From zero to Expert! (InProgress)
+- Andrei Neagoie - Zero to Mastery (full Stack) (In Progress)
+- Sientific Cyber Security
+Association.
+Course: «Front-End
+Developer»
+(completed);
+
+## Languages: 
+
+- English - Intermediate (according to the online test at
+www.efset.org
+)
+![Photo of English level](./Eng-Eng.png)
+- Russian - Good
+- Georgian - Native
+
+**Elena Kuparadze**
+
+[GitHub](https://github.com/Itsmeelo)
